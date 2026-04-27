@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 99596945d5a0b44d9be0cf1785c11cdd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 250058
+  packageName: State Machine 2 (Game Creator 2)
+  packageVersion: 2.4.14
+  assetPath: Assets/Plugins/NinjutsuGames/Packages/StateMachine/Editor/Tools/GraphAssetCallbacks.cs
+  uploadId: 701935

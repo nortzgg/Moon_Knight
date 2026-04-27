@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d3d2b12220c9546f684e6f0b8194186f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 250058
+  packageName: State Machine 2 (Game Creator 2)
+  packageVersion: 2.4.14
+  assetPath: Assets/Plugins/NinjutsuGames/Packages/StateMachine/Runtime/Utils/GraphUtils.cs
+  uploadId: 701935

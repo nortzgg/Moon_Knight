@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 2cf54cac534a4c76be0486634ff2bdac
+timeCreated: 1679201846
+AssetOrigin:
+  serializedVersion: 1
+  productId: 250058
+  packageName: State Machine 2 (Game Creator 2)
+  packageVersion: 2.4.14
+  assetPath: Assets/Plugins/NinjutsuGames/Packages/StateMachine/Runtime/Detectors/TDetectorNameVariable.cs
+  uploadId: 701935

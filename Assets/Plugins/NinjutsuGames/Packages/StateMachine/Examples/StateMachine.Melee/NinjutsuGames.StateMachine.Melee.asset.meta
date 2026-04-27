@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 47bc042991ec74265869fac19d3b52bc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 250058
+  packageName: State Machine 2 (Game Creator 2)
+  packageVersion: 2.5.15
+  assetPath: Assets/Plugins/NinjutsuGames/Packages/StateMachine/Examples/StateMachine.Melee/NinjutsuGames.StateMachine.Melee.asset
+  uploadId: 720442

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 175c1d55725f435cbe018e1298b27f0e
+timeCreated: 1679244281
+AssetOrigin:
+  serializedVersion: 1
+  productId: 250058
+  packageName: State Machine 2 (Game Creator 2)
+  packageVersion: 2.4.14
+  assetPath: Assets/Plugins/NinjutsuGames/Packages/StateMachine/Runtime/VisualScripting/Polymorphism/Properties/Get/Texture/GetTextureStateMachineRunner.cs
+  uploadId: 701935

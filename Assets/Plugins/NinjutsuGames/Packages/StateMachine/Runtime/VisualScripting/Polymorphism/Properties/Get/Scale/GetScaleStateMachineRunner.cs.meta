@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 32b68ffd92954062917e390dd3918920
+timeCreated: 1679244130
+AssetOrigin:
+  serializedVersion: 1
+  productId: 250058
+  packageName: State Machine 2 (Game Creator 2)
+  packageVersion: 2.4.14
+  assetPath: Assets/Plugins/NinjutsuGames/Packages/StateMachine/Runtime/VisualScripting/Polymorphism/Properties/Get/Scale/GetScaleStateMachineRunner.cs
+  uploadId: 701935

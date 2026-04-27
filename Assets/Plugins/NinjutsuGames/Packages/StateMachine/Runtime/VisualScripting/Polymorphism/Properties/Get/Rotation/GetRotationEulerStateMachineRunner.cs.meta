@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: ea0589d3fe704bbeb0c7e40b04ea8d40
+timeCreated: 1679244093
+AssetOrigin:
+  serializedVersion: 1
+  productId: 250058
+  packageName: State Machine 2 (Game Creator 2)
+  packageVersion: 2.4.14
+  assetPath: Assets/Plugins/NinjutsuGames/Packages/StateMachine/Runtime/VisualScripting/Polymorphism/Properties/Get/Rotation/GetRotationEulerStateMachineRunner.cs
+  uploadId: 701935

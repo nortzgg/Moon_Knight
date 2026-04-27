@@ -1,0 +1,92 @@
+
+
+/* Main container for the search view */
+.node-search-view {
+    min-height: 1px;
+    max-height: 600px;
+    background-color: #575757;
+    /*border-radius: 4px;*/
+    flex-direction: column; /* Ensure vertical layout */
+    /* Add a subtle shadow for better depth */
+    -unity-slice-left: 2;
+    -unity-slice-top: 2;
+    -unity-slice-right: 2;
+    -unity-slice-bottom: 2;
+    border-width: 1px;
+    border-color: rgb(30, 30, 30);
+}
+
+/* Header containing the search field */
+.node-search-header {
+    flex-direction: row;
+    align-items: center;
+    padding: 4px;
+    background-color: #3f3f3f;
+}
+
+/* Search icon in the header */
+.node-search-icon {
+    width: 16px;
+    height: 16px;
+    margin-right: 4px;
+    margin-left: 4px;
+    position: absolute;
+}
+
+/* Text field for search input */
+.node-search-field {
+    flex-grow: 1;
+    height: 32px;
+}
+
+/* Container for search results list */
+.node-search-results-container {
+    max-height: 600px;
+    min-height: 0; /* Ensure it has some height even when empty */
+    flex-grow: 1; /* Allow it to take available space */
+    background-color: #333;
+}
+
+.unity-list-view {
+    min-height: 0; /* Ensure it has some height even when empty */
+
+    border-top-width: 1px;
+    border-top-color: rgb(30, 30, 30);
+}
+
+/* Label shown when no search results are found */
+.node-search-no-results {
+    padding: 10px;
+    -unity-text-align: middle-center;
+    color: rgb(180, 180, 180);
+}
+
+/* Style for individual items in the search results list */
+.node-search-list-item Label {
+    padding: 5px 10px;
+    color: rgb(220, 220, 220);
+}
+
+.node-search-list-item:hover Label {
+    background-color: rgb(80, 80, 80);
+}
+
+.node-search-list-item:selected Label { /* Unity default is often #selected */
+    background-color: rgb(0, 122, 204); /* A common selection blue */
+    color: white;
+}
+
+
+/* Style for a node when it's highlighted by the search */
+.highlighted-node {
+    /* Using a border for highlight as scale can interfere with layout */
+    border-color: yellow;
+    border-width: 10px;
+}
+
+.placeholder-text-style {
+    position: absolute;
+    color: rgb(150, 150, 150);
+    -unity-font-style: italic;
+    margin-left: 10px;
+}

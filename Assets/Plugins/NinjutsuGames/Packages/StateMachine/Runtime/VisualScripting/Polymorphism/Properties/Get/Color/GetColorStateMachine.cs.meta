@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: c3f5dbbed90146aa97090288f7887396
+timeCreated: 1679187715
+AssetOrigin:
+  serializedVersion: 1
+  productId: 250058
+  packageName: State Machine 2 (Game Creator 2)
+  packageVersion: 2.4.14
+  assetPath: Assets/Plugins/NinjutsuGames/Packages/StateMachine/Runtime/VisualScripting/Polymorphism/Properties/Get/Color/GetColorStateMachine.cs
+  uploadId: 701935

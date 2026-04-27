@@ -1,0 +1,57 @@
+#GC-Runner-Head {
+    margin-top: var(--gc-common-space-smaller);
+    /*margin-left: var(--gc-common-indent-left);*/
+    margin-right: var(--gc-common-space-small);
+}
+
+#GC-Runner-Body {
+
+}
+
+#GC-Runner-Foot {
+    margin-top: var(--gc-common-space-smaller);
+}
+
+#GC-Runner-Data-Root {
+    margin-left: -14px;
+    /*margin-right: -12px;*/
+    margin-top: var(--gc-common-space-smaller);
+}
+
+#GC-Runner-Data-Head {
+    height: var(--gc-list-head-size);
+    margin-right: -5px;
+    border-top-width: var(--gc-common-border-width);
+    border-bottom-width: var(--gc-common-border-width);
+    border-top-color: var(--gc-color-border-element);
+    border-bottom-color: var(--gc-color-border-element);
+    background-color: var(--gc-color-list-head-default);
+    flex-direction: row;
+    flex-wrap: nowrap;
+    padding-left: var(--gc-common-indent-left);
+}
+
+#GC-Runner-Data-Head:hover {
+    background-color: var(--gc-color-list-head-hover);
+}
+
+#GC-Runner-Data-Head Image {
+    width: var(--gc-list-head-image-size);
+    height: var(--gc-list-head-image-size);
+    margin-top: var(--gc-list-head-image-margin);
+    flex-grow: 0;
+}
+
+#GC-Runner-Data-Head Label {
+    margin-top: var(--gc-list-head-image-margin);
+    margin-left: var(--gc-common-space-smallest);
+    height: var(--gc-list-head-image-size);
+    flex-grow: 1;
+    -unity-text-align: middle-left;
+}
+
+#GC-Runner-Data-Body {
+    margin-top: var(--gc-common-space-smaller);
+    margin-left: 14px;
+    margin-right: var(--gc-common-space-smallest);
+}

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 1c3be4554b3e42118d471f1c269cf3b0
+timeCreated: 1681223240
+AssetOrigin:
+  serializedVersion: 1
+  productId: 250058
+  packageName: State Machine 2 (Game Creator 2)
+  packageVersion: 2.4.14
+  assetPath: Assets/Plugins/NinjutsuGames/Packages/StateMachine/Runtime/VisualScripting/Instructions/InstructionStateMachineAssetStopNode.cs
+  uploadId: 701935

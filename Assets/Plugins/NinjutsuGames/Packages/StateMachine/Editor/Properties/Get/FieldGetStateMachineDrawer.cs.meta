@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 86a238f052144bc6a2714dade2bd9af4
+timeCreated: 1678769608
+AssetOrigin:
+  serializedVersion: 1
+  productId: 250058
+  packageName: State Machine 2 (Game Creator 2)
+  packageVersion: 2.4.14
+  assetPath: Assets/Plugins/NinjutsuGames/Packages/StateMachine/Editor/Properties/Get/FieldGetStateMachineDrawer.cs
+  uploadId: 701935

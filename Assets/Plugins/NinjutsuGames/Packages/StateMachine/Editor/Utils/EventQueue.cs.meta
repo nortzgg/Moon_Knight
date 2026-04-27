@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 74ad119ff0cb486eba0d6afd89624306
+timeCreated: 1679411116
+AssetOrigin:
+  serializedVersion: 1
+  productId: 250058
+  packageName: State Machine 2 (Game Creator 2)
+  packageVersion: 2.4.14
+  assetPath: Assets/Plugins/NinjutsuGames/Packages/StateMachine/Editor/Utils/EventQueue.cs
+  uploadId: 701935

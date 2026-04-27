@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 1505f62f599e43f89d43db35c47602ed
+timeCreated: 1679201518
+AssetOrigin:
+  serializedVersion: 1
+  productId: 250058
+  packageName: State Machine 2 (Game Creator 2)
+  packageVersion: 2.4.14
+  assetPath: Assets/Plugins/NinjutsuGames/Packages/StateMachine/Runtime/VisualScripting/Events/EventOnVariableStateMachineRunnerChange.cs
+  uploadId: 701935
