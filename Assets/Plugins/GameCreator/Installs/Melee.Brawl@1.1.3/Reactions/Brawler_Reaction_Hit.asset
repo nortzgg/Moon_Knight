@@ -26,7 +26,7 @@ MonoBehaviour:
     - rid: 7624061013279113439
     - rid: 6655073804197822464
     - rid: 6655073818933985280
-    - rid: 2271720276573291518
+    - rid: 6655073818933985281
   m_OnEnter:
     m_Instructions:
       m_Instructions: []
@@ -36,30 +36,10 @@ MonoBehaviour:
   references:
     version: 2
     RefIds:
-    - rid: 2271720276573291518
-      type: {class: ReactionItem, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
-      data:
-        m_Breakpoint: 0
-        m_IsEnabled: 1
-        m_MinPower:
-          m_IsEnabled: 0
-          m_Value: 1
-        m_Direction: 2
-        m_Conditions:
-          m_Conditions:
-            m_Conditions: []
-        m_AvatarMask: {fileID: 0}
-        m_CancelTime:
-          m_IsEnabled: 1
-          m_Value: 0.5
-        m_Rotation: 0
-        m_Gravity: 1
-        m_Animations:
-          m_Animations:
-          - {fileID: 7400000, guid: f6cd081138adb4db4aa8c8287859a08f, type: 2}
     - rid: 6520063822367293484
       type: {class: ReactionItem, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
       data:
+        m_IsExpanded: 0
         m_Breakpoint: 0
         m_IsEnabled: 1
         m_MinPower:
@@ -83,6 +63,7 @@ MonoBehaviour:
     - rid: 6655073804197822464
       type: {class: ReactionItem, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
       data:
+        m_IsExpanded: 0
         m_Breakpoint: 0
         m_IsEnabled: 1
         m_MinPower:
@@ -104,6 +85,7 @@ MonoBehaviour:
     - rid: 6655073818933985280
       type: {class: ReactionItem, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
       data:
+        m_IsExpanded: 0
         m_Breakpoint: 0
         m_IsEnabled: 1
         m_MinPower:
@@ -122,9 +104,32 @@ MonoBehaviour:
         m_Animations:
           m_Animations:
           - {fileID: 7400000, guid: a0e85e2233461489ca424a54b52a0abc, type: 2}
+    - rid: 6655073818933985281
+      type: {class: ReactionItem, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data:
+        m_IsExpanded: 0
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_MinPower:
+          m_IsEnabled: 0
+          m_Value: 1
+        m_Direction: 2
+        m_Conditions:
+          m_Conditions:
+            m_Conditions: []
+        m_AvatarMask: {fileID: 0}
+        m_CancelTime:
+          m_IsEnabled: 1
+          m_Value: 0.5
+        m_Rotation: 0
+        m_Gravity: 1
+        m_Animations:
+          m_Animations:
+          - {fileID: 7400000, guid: f6cd081138adb4db4aa8c8287859a08f, type: 2}
     - rid: 7624061013279113439
       type: {class: ReactionItem, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
       data:
+        m_IsExpanded: 0
         m_Breakpoint: 0
         m_IsEnabled: 1
         m_MinPower:
@@ -148,6 +153,7 @@ MonoBehaviour:
     - rid: 7624061028499456012
       type: {class: ReactionItem, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
       data:
+        m_IsExpanded: 0
         m_Breakpoint: 0
         m_IsEnabled: 1
         m_MinPower:
@@ -169,6 +175,7 @@ MonoBehaviour:
     - rid: 7624061028499456013
       type: {class: ReactionItem, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
       data:
+        m_IsExpanded: 0
         m_Breakpoint: 0
         m_IsEnabled: 1
         m_MinPower:
@@ -189,4 +196,3 @@ MonoBehaviour:
           - {fileID: 7400000, guid: 9327a38e0ebc343bf84d33856c30e3e8, type: 2}
     - rid: 7624061029808603229
       type: {class: GetDecimalConstantOne, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
-      data: 

@@ -27,7 +27,9 @@ MonoBehaviour:
   m_Charge:
     m_State:
       m_StateType: 2
-      m_AnimationClip: {fileID: 0}
+      m_AnimationClip:
+        m_Property:
+          rid: 2271720305476502413
       m_RuntimeController: {fileID: 0}
       m_State: {fileID: 0}
       m_AvatarMask: {fileID: 0}
@@ -65,13 +67,14 @@ MonoBehaviour:
     m_SoundParried:
       m_Property:
         rid: 4340017105353311032
+    m_HitEffect:
+      m_Property:
+        rid: 4340017105353311035
     m_HitPause: 0
     m_HitPauseTimeScale: 0.05
     m_HitPauseDelay: 0.1
     m_HitPauseDuration: 0.1
-    m_HitEffect:
-      m_Property:
-        rid: 4340017105353311035
+    m_TimeScale: 0
   m_Animation: {fileID: 7400000, guid: daee0441114784f5cbf2bd8c14a44b25, type: 2}
   m_Mask: {fileID: 0}
   m_Motion: 2
@@ -97,6 +100,12 @@ MonoBehaviour:
   m_SpeedRecovery:
     m_Property:
       rid: 4340017105353311019
+  m_CanBlock:
+    m_Conditions:
+      m_Conditions: []
+  m_CanParry:
+    m_Conditions:
+      m_Conditions: []
   m_PoiseArmor:
     m_Property:
       rid: 4340017105353311020
@@ -123,6 +132,10 @@ MonoBehaviour:
   references:
     version: 2
     RefIds:
+    - rid: 2271720305476502413
+      type: {class: GetAnimationInstance, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
+      data:
+        m_Value: {fileID: 0}
     - rid: 4340017105353311001
       type: {class: GetStringString, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
       data:

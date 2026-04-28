@@ -203,6 +203,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Actions: {fileID: 11400000, guid: c8ad8337b321442d99a6e6b0028b29da, type: 2}
   m_ForceGrounded: 1
+  m_ParentTo: {fileID: 0}
   m_IgnoreColliders:
   - {fileID: 2766994878418595003}
   m_OnEnter:
